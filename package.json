@@ -1,0 +1,22 @@
+{
+  "name": "npm-lab-london-web-091718",
+  "version": "1.0.0",
+  "description": "lab npm file",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node_modules/browser-sync/bin/browser-sync.js start --config node_modules/learn-browser/bs-config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umair-qaisar/npm-lab-london-web-091718.git"
+  },
+  "author": "umair",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umair-qaisar/npm-lab-london-web-091718/issues"
+  },
+  "homepage": "https://github.com/umair-qaisar/npm-lab-london-web-091718#readme"
+}
